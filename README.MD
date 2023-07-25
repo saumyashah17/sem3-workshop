@@ -1,2 +1,2 @@
-## Sem3
-huge amount of code
+## sem3
+# hello this is program
